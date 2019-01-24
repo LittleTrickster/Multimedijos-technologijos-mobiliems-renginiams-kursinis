@@ -3,7 +3,7 @@
 Ši aplikacija yra sudaryta iš 2 langų 
 Pirmas langas kuriame pasirenkamas Bluetooth prietaisas. Jo klases pavadinimas MainActivity. Turint naują prietaisą paspaudus „Refresh“ mygtuką galima atnaujinti sąrašą.
  
-![Alt text](/misc/0.jpg?raw=true =250x "Double Joystick with custom size and colors")
+![Alt text](/misc/0.jpg?raw=true  "Double Joystick with custom size and colors")
  
 Pasirinkus prietaisą ir be klaidos prisijungus prie jo langas pasikeičia į valdymo langa kuriame yra du roboto valdymo virtualios vairalazdės.
 Kairys skirtas važiavimui tiesiai arba atgal o dešinys skirtas posūkiams.
