@@ -1,4 +1,4 @@
-# Multimedijos technologijos mobiliems renginiams kursinis darbas
+# Multimedijos technologijos mobiliems įrenginiams kursinis darbas
 
 ## Pagridniniai 2 aplikacijos langai
 
